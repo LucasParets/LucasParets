@@ -1,12 +1,12 @@
 # Hi, I'm Lucas Parets! 👋
 
-**Information Systems Engineering Student** at UTN FRBA [cite: 10, 11] [cite_start]with a strong focus on **Data Science**, **Machine Learning**, and **Data-Driven Solutions**[cite: 6].
+**Information Systems Engineering Student** at UTN FRBA with a strong focus on **Data Science**, **Machine Learning**, and **Data-Driven Solutions**.
 
 ### 🔍 About Me
-- [cite_start]🔭 Currently developing a **Movie Recommendation System** using Python, Pandas, and scikit-learn[cite: 26, 27].
-- [cite_start]🎓 Certified by **Google** (Data Analytics) and **IBM** (Data Science)[cite: 15, 18].
-- [cite_start]🛠️ Experienced in building distributed systems, REST APIs, and data architectures[cite: 21, 25].
-- [cite_start]🗣️ Advanced English level[cite: 35].
+- 🔭 Currently developing a **Movie Recommendation System** using Python, Pandas, and scikit-learn.
+- 🎓 Certified by **Google** (Data Analytics) and **IBM** (Data Science).
+- 🛠️ Experienced in building distributed systems, REST APIs, and data architectures.
+- 🗣️ Advanced English level.
 
 ### 🛠️ Tech Stack
 
@@ -38,9 +38,9 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23C1E81C?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### 📊 Featured Certifications
-* [cite_start]**IBM Data Science Professional Certificate**: Exploratory Data Analysis (EDA), Machine Learning, and Python modeling[cite: 18, 19, 30].
-* [cite_start]**Google Data Analytics Professional Certificate**: Data cleaning, validation, R programming, and Tableau visualization[cite: 15, 16, 17].
+* **IBM Data Science Professional Certificate**: Exploratory Data Analysis (EDA), Machine Learning, and Python modeling.
+* **Google Data Analytics Professional Certificate**: Data cleaning, validation, R programming, and Tableau visualization.
 
 ### 📫 Connect with me
-- [cite_start]📧 [paretslucas@gmail.com](mailto:paretslucas@gmail.com) [cite: 4]
-- [cite_start]📍 Greater Buenos Aires, Argentina [cite: 2]
+- 📧 [paretslucas@gmail.com](mailto:paretslucas@gmail.com)
+- 📍 Greater Buenos Aires, Argentina
