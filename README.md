@@ -43,4 +43,4 @@
 
 ### 📫 Connect with me
 - 📧 [paretslucas@gmail.com](mailto:paretslucas@gmail.com)
-- 📍 Greater Buenos Aires, Argentina
+- 📍 Buenos Aires, Argentina
