@@ -2,12 +2,6 @@
 
 **Information Systems Engineering Student** at UTN FRBA with a strong focus on **Data Science**, **Machine Learning**, and **Data-Driven Solutions**.
 
-### 🔍 About Me
-- 🔭 Currently developing a **Movie Recommendation System** using Python, Pandas, and scikit-learn.
-- 🎓 Certified by **Google** (Data Analytics) and **IBM** (Data Science).
-- 🛠️ Experienced in building distributed systems, REST APIs, and data architectures.
-- 🗣️ Advanced English level.
-
 ### 🛠️ Tech Stack
 
 #### 📊 Data Science & Analysis
